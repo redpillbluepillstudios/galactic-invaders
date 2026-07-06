@@ -5,8 +5,8 @@ This document captures the technical audit of an existing codebase performed by 
 Galactic Invaders is a retro-style 2D space shooter browser game targeting retro gaming enthusiasts and nostalgic players. Built entirely with vanilla JavaScript and PixiJS, it delivers a polished arcade experience with zero setup — playable instantly in any browser. The game features 8-directional player movement, multiple enemy types, power-ups, progressive difficulty, and a city defense mechanic, all wrapped in a neon-glow retro arcade aesthetic.
 
 **Current Version:** 0.6.4 (Help System)
-**Live URL:** https://galacticinvaders.icodewith.ai/
-**Repository:** https://github.com/bymarcelolewin/galactic-invaders
+**Live URL:** https://galacticinvaders.redpillbluepillstudios.com/
+**Repository:** https://github.com/redpillbluepillstudios/galactic-invaders
 
 ## Tech Stack
 | Technology | Purpose |

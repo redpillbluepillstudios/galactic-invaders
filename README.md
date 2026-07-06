@@ -1,4 +1,4 @@
-[ ![Galactic Invaders](./assets/galactic-invaders.png "Galactic Invaders") ](https://galacticinvaders.icodewith.ai/)
+[ ![Galactic Invaders](./assets/galactic-invaders.png "Galactic Invaders") ](https://galacticinvaders.redpillbluepillstudios.com/)
 
 # Galactic Invaders
 
@@ -10,7 +10,7 @@
 Your mission is to protect your city, trying to stop waves of aliens from destroying it—or you. You can shoot them down, get temporary rapid-fire during bonus time, and unlock powerful nukes at certain score levels. The goal is simple: stay alive and protect the city.
 
 ## Where to Play It
-To play the game, you can either play it [live on the web](https://galacticinvaders.icodewith.ai/) or clone this repo and run it locally using a web server (since it uses fetch() to load JSON data). If you’re running it locally, make sure to serve it with something like Live Server in VS Code or a simple HTTP server to avoid CORS issues.
+To play the game, you can either play it [live on the web](https://galacticinvaders.redpillbluepillstudios.com/) or clone this repo and run it locally using a web server (since it uses fetch() to load JSON data). If you’re running it locally, make sure to serve it with something like Live Server in VS Code or a simple HTTP server to avoid CORS issues.
 
 ## How to Play
 1. Use ←, ↑, →, ↓ or [WASD] to move your spaceship
@@ -61,7 +61,7 @@ This game was developed using a variety of tools including:
 - Git / GitHub
 
 ## License
-This project is open source and available for personal and educational use. Enjoy the game and feel free [contact me](mailto:marcelo@icodewith.ai) with updates, bugs or feedback! 🚀 
+This project is open source and available for personal and educational use. Enjoy the game and feel free [contact me](mailto:marcelo@redpillbluepillstudios.com) with updates, bugs or feedback! 🚀 
 
 ## Release Notes
 Read the latest [release notes](./release_notes.md).

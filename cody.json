@@ -1,0 +1,12 @@
+{
+  "cody-product-builder": {
+    "name": "Galactic Invaders",
+    "description": "A retro-style 2D space shooter browser game built with vanilla JavaScript and PixiJS.",
+    "version": "0.6.4",
+    "phase": "build",
+    "projectPath": "docs",
+    "releaseNotesPath": "{{projectRoot}}",
+    "createdAt": "2026-07-06",
+    "updatedAt": "2026-07-06"
+  }
+}
