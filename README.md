@@ -2,6 +2,8 @@
 
 # Galactic Invaders
 
+[![Version](https://img.shields.io/github/package-json/v/redpillbluepillstudios/galactic-invaders?label=version&color=39ff14&style=flat-square)](./release_notes.md) [![Owner](https://img.shields.io/badge/owner-RPBP%20Studios-39ff14?style=flat-square)](https://redpillbluepillstudios.com)
+
 >A 2D "retro style" space shooter game built with HTML, CSS, and JavaScript.
 > 
 > **By Marcelo Lewin**
